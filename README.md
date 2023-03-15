@@ -18,7 +18,7 @@ This is the awesome project that I built for [Frontend Mentor](https://www.front
 
 ## Links
 
-- [Live Demo](https://my-demo-url.com)
+- [Live Demo](https://mohaimin-chat-app.netlify.app)
 - [Frontend Mentor Challenge](https://www.youtube.com/@CodeWithMohaimin)
 
 ## Credits
